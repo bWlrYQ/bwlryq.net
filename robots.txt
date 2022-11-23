@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bwlryq.net/sitemap.xml

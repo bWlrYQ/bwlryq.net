@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sécurité on bWlrYQ | Blog</title>
+    <link>https://bwlryq.net/fr/tags/s%C3%A9curit%C3%A9/</link>
+    <description>Recent content in Sécurité on bWlrYQ | Blog</description>
+    <image>
+      <url>https://bwlryq.net/img/pfp.png</url>
+      <link>https://bwlryq.net/img/pfp.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bwlryq.net/fr/tags/s%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Réseau - VLAN Hopping</title>
+      <link>https://bwlryq.net/fr/posts/vlan_hopping/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwlryq.net/fr/posts/vlan_hopping/</guid>
+      <description>Article à propos du VLAN Hopping ainsi que les techniques d&amp;rsquo;exploitation et de limitation de cette attaque</description>
+    </item>
+    
+  </channel>
+</rss>

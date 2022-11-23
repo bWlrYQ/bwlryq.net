@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bwlryq.net/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/tags/explotation/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/tags/layer-2/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/tags/networking/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/posts/vlan_hopping/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/posts/vlan_hopping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/posts/vlan_hopping/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/posts/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/tags/security/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/tags/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/tags/vlan/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/tags/vlan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/tags/vlan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/cheatsheets/soon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/cheatsheets/soon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/cheatsheets/soon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/cheatsheets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/cheatsheets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/cheatsheets/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/search/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bwlryq.net/whoami/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bwlryq.net/fr/whoami/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bwlryq.net/whoami/"
+                />
+  </url>
+  
+</urlset>

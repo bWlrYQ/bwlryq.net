@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on bWlrYQ | Blog</title>
+    <link>https://bwlryq.net/tags/</link>
+    <description>Recent content in Tags on bWlrYQ | Blog</description>
+    <image>
+      <url>https://bwlryq.net/img/pfp.png</url>
+      <link>https://bwlryq.net/img/pfp.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bwlryq.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explotation</title>
+      <link>https://bwlryq.net/tags/explotation/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwlryq.net/tags/explotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layer 2</title>
+      <link>https://bwlryq.net/tags/layer-2/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwlryq.net/tags/layer-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>https://bwlryq.net/tags/networking/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwlryq.net/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://bwlryq.net/tags/security/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwlryq.net/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLAN</title>
+      <link>https://bwlryq.net/tags/vlan/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwlryq.net/tags/vlan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
